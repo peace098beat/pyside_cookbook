@@ -1,2 +1,3 @@
 # pyside_cookbook
-Master of PySide Cookbook
+pysideに関するTipをまとめています．
+[wiki](https://github.com/peace098beat/pyside_cookbook/wiki)をご覧ください．
