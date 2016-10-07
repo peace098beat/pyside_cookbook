@@ -1,0 +1,14 @@
+setup.py
+fifilib_dev.egg-info/PKG-INFO
+fifilib_dev.egg-info/SOURCES.txt
+fifilib_dev.egg-info/dependency_links.txt
+fifilib_dev.egg-info/not-zip-safe
+fifilib_dev.egg-info/top_level.txt
+src/__init__.py
+src/api.py
+src/model/__init__.py
+src/model/writer.py
+src/view/__init__.py
+src/view/printer.py
+tests/__init__.py
+tests/test_import_package.py
