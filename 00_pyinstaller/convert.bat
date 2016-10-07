@@ -1,0 +1,1 @@
+pyside-uic src/Ui_Dialog.ui > src/Ui_Dialog.py

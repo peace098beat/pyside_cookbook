@@ -1,0 +1,236 @@
+missing module named PyQt4.QtCore.QCoreApplication - imported by PyQt4.QtCore, c:\users\fifi\anaconda3(32bit)\envs\pyside33\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_qt4plugins.py
+missing module named PySide.QtCore.QCoreApplication - imported by PySide.QtCore, c:\users\fifi\anaconda3(32bit)\envs\pyside33\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_qt4plugins.py
+missing module named resource - imported by posix, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named posix - imported by os, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _datetime.__doc__ - imported by _datetime, datetime, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _posixsubprocess - imported by subprocess, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _functools.reduce - imported by _functools, functools, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _functools.partial - imported by _functools, functools, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _functools.cmp_to_key - imported by _functools, functools, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _io.DEFAULT_BUFFER_SIZE - imported by _io, io, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _io.StringIO - imported by _io, io, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _io.UnsupportedOperation - imported by _io, io, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _io.BytesIO - imported by _io, io, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _io.BufferedReader - imported by _io, io, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _io.FileIO - imported by _io, io, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _io.BufferedRWPair - imported by _io, io, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _io.BlockingIOError - imported by _io, io, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _io.IncrementalNewlineDecoder - imported by _io, io, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _io.BufferedWriter - imported by _io, io, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _io.TextIOWrapper - imported by _io, io, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _io.BufferedRandom - imported by _io, io, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _io.open - imported by _io, io, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _collections.deque - imported by _collections, collections, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _collections.defaultdict - imported by _collections, collections, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _collections._count_elements - imported by _collections, collections, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named 'org.python' - imported by pickle, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py, xml.sax
+missing module named 'org.python'.imp - imported by 'org.python', xml.sax
+missing module named 'org.python'.PyStringMap - imported by 'org.python', pickle, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _sre.MAXREPEAT - imported by _sre, sre_constants, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _weakref.ProxyType - imported by _weakref, weakref, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _weakref.getweakrefcount - imported by _weakref, weakref, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _weakref.proxy - imported by _weakref, weakref, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _weakref.CallableProxyType - imported by _weakref, weakref, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _weakref.ReferenceType - imported by _weakref, weakref, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _weakref.getweakrefs - imported by _weakref, weakref, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _weakref.ref - imported by _weakref, _weakrefset, weakref, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named unicodedata.ucd_3_2_0 - imported by unicodedata, stringprep, encodings.idna, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named itertools.starmap - imported by itertools, collections, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named itertools.islice - imported by itertools, heapq, reprlib, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named itertools.chain - imported by itertools, tokenize, heapq, collections, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named itertools.tee - imported by itertools, heapq, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named itertools.count - imported by itertools, heapq, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named posix._exit - imported by posix, os, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named posix._have_functions - imported by posix, os, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named os2 - imported by os, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named os2._exit - imported by os2, os, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _emx_link - imported by os, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _emx_link.link - imported by _emx_link, os, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named os2._have_functions - imported by os2, os, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named ce - imported by os, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named ce._exit - imported by ce, os, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named ce._have_functions - imported by ce, os, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named readline - imported by cmd, code, pdb, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _imp.init_frozen - imported by _imp, imp, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _imp.release_lock - imported by _imp, imp, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _imp.get_frozen_object - imported by _imp, imp, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _imp.is_frozen - imported by _imp, imp, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _imp.acquire_lock - imported by _imp, imp, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _imp._fix_co_filename - imported by _imp, imp, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _imp.is_frozen_package - imported by _imp, imp, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _imp.lock_held - imported by _imp, imp, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _imp.is_builtin - imported by _imp, imp, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _imp.init_builtin - imported by _imp, imp, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _imp.load_dynamic - imported by _imp, imp, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+excluded module named _frozen_importlib - imported by importlib, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named zipimport.zipimporter - imported by zipimport, pkgutil, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named win32api.RegQueryValueEx - imported by win32api, platform, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named win32api.GetVersionEx - imported by win32api, platform, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named win32api.RegOpenKeyEx - imported by win32api, platform, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named win32api.RegCloseKey - imported by win32api, platform, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named win32con.VER_NT_WORKSTATION - imported by win32con, platform, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _gestalt - imported by platform, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _gestalt.gestalt - imported by _gestalt, platform, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _scproxy._get_proxies - imported by _scproxy, urllib.request
+missing module named _scproxy._get_proxy_settings - imported by _scproxy, urllib.request
+missing module named _scproxy - imported by urllib.request
+missing module named 'java.lang'.Exception - imported by 'java.lang', xml.sax._exceptions
+missing module named xml.parsers.expat.ParserCreate - imported by xml.parsers.expat, plistlib, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named java - imported by platform, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named java.System - imported by java, platform, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named 'java.lang' - imported by platform, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named fcntl - imported by tempfile, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named termios - imported by tty, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py, getpass
+missing module named _ssl.OPENSSL_VERSION_NUMBER - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.OPENSSL_VERSION_INFO - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.OPENSSL_VERSION - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl._SSLContext - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.SSLEOFError - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.SSLWantWriteError - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.SSLSyscallError - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.SSLZeroReturnError - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.SSLWantReadError - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.SSLError - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.CERT_REQUIRED - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.CERT_OPTIONAL - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.CERT_NONE - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.OP_NO_TLSv1 - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.OP_CIPHER_SERVER_PREFERENCE - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.OP_ALL - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.OP_NO_SSLv2 - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.OP_NO_SSLv3 - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.OP_SINGLE_DH_USE - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.OP_NO_COMPRESSION - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.OP_SINGLE_ECDH_USE - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.RAND_bytes - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.RAND_add - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.RAND_egd - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.RAND_pseudo_bytes - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.RAND_status - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.SSL_ERROR_WANT_CONNECT - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.SSL_ERROR_WANT_READ - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.SSL_ERROR_SSL - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.SSL_ERROR_WANT_X509_LOOKUP - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.SSL_ERROR_ZERO_RETURN - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.SSL_ERROR_EOF - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.SSL_ERROR_INVALID_ERROR_CODE - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.SSL_ERROR_WANT_WRITE - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.SSL_ERROR_SYSCALL - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.HAS_ECDH - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.HAS_SNI - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.HAS_NPN - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.PROTOCOL_TLSv1 - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.PROTOCOL_SSLv23 - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.PROTOCOL_SSLv3 - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl._OPENSSL_API_VERSION - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ssl.PROTOCOL_SSLv2 - imported by _ssl, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _bz2.BZ2Decompressor - imported by _bz2, bz2, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _bz2.BZ2Compressor - imported by _bz2, bz2, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named grp - imported by tarfile, shutil, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named grp.getgrnam - imported by grp, shutil, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _lzma._decode_filter_properties - imported by _lzma, lzma, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _lzma._encode_filter_properties - imported by _lzma, lzma, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named nt._exit - imported by nt, os, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named nt._getfullpathname - imported by nt, ntpath, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named nt._getfinalpathname - imported by nt, ntpath, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named nt._getfileinformation - imported by nt, ntpath, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named nt._isdir - imported by nt, ntpath, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named nt._have_functions - imported by nt, os, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _dummy_threading.__all__ - imported by _dummy_threading, dummy_threading, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named dummy_threading.RLock - imported by dummy_threading, bz2, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named binascii.b2a_qp - imported by binascii, quopri, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named binascii.a2b_qp - imported by binascii, quopri, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named math.ceil - imported by math, random, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named math.log - imported by math, random, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named math.pi - imported by math, random, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named math.exp - imported by math, random, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named math.e - imported by math, random, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named math.sin - imported by math, random, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named math.sqrt - imported by math, random, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named math.cos - imported by math, random, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named math.acos - imported by math, random, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named os.urandom - imported by os, random, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named hashlib.sha512 - imported by hashlib, random, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named binascii.b2a_base64 - imported by binascii, email.base64mime, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named binascii.a2b_base64 - imported by binascii, email.base64mime, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _thread.allocate_lock - imported by _thread, _strptime, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _thread.get_ident - imported by _thread, reprlib, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _thread.RLock - imported by _thread, functools, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named time.sleep - imported by time, threading, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _thread.stack_size - imported by _thread, threading, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _thread._local - imported by _thread, threading, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named threading.RLock - imported by threading, _threading_local, bz2, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named threading.current_thread - imported by threading, _threading_local, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named time.monotonic - imported by time, subprocess, threading, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named time.time - imported by time, subprocess, threading, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _winapi.STD_ERROR_HANDLE - imported by _winapi, subprocess, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _winapi.STD_INPUT_HANDLE - imported by _winapi, subprocess, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _winapi.STD_OUTPUT_HANDLE - imported by _winapi, subprocess, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _winapi.STARTF_USESTDHANDLES - imported by _winapi, subprocess, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _winapi.CREATE_NEW_CONSOLE - imported by _winapi, subprocess, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _winapi.SW_HIDE - imported by _winapi, subprocess, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _winapi.STARTF_USESHOWWINDOW - imported by _winapi, subprocess, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _winapi.CREATE_NEW_PROCESS_GROUP - imported by _winapi, subprocess, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named socket.getnameinfo - imported by socket, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named socket.error - imported by socket, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named socket.AF_INET - imported by socket, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named socket.SOCK_STREAM - imported by socket, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named socket.SO_TYPE - imported by socket, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named socket.SOL_SOCKET - imported by socket, ssl, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named sys.modules - imported by sys, dummy_threading, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named pwd.getpwnam - imported by pwd, shutil, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py, getpass
+missing module named _warnings.filters - imported by _warnings, warnings, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _warnings.warn_explicit - imported by _warnings, warnings, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _warnings._onceregistry - imported by _warnings, warnings, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _warnings.warn - imported by _warnings, warnings, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _warnings._defaultaction - imported by _warnings, warnings, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named copy.deepcopy - imported by copy, weakref, email.generator, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named org - imported by copy, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named org.PyStringMap - imported by org, copy, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _struct._clearcache - imported by _struct, struct, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _struct.__doc__ - imported by _struct, struct, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named struct.calcsize - imported by struct, ctypes
+missing module named errno.ENOENT - imported by errno, gettext, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named itertools.repeat - imported by itertools, tokenize, collections, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named gettext.gettext - imported by gettext, argparse, optparse, getopt, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named gettext.ngettext - imported by gettext, argparse, optparse, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named builtins.str - imported by builtins, locale, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named builtins.open - imported by builtins, tarfile, C:\Users\FiFi\Desktop\PrefferenceDialog\src\fiapp.py
+missing module named _ctypes._wstring_at_addr - imported by _ctypes, ctypes
+missing module named _ctypes._memmove_addr - imported by _ctypes, ctypes
+missing module named _ctypes._string_at_addr - imported by _ctypes, ctypes
+missing module named _ctypes._cast_addr - imported by _ctypes, ctypes
+missing module named _ctypes._memset_addr - imported by _ctypes, ctypes
+missing module named _ctypes.set_last_error - imported by _ctypes, ctypes
+missing module named _ctypes.get_last_error - imported by _ctypes, ctypes
+missing module named _ctypes._check_HRESULT - imported by _ctypes, ctypes
+missing module named _ctypes.POINTER - imported by _ctypes, ctypes
+missing module named _ctypes._pointer_type_cache - imported by _ctypes, ctypes
+missing module named _ctypes._SimpleCData - imported by _ctypes, ctypes
+missing module named _ctypes.get_errno - imported by _ctypes, ctypes
+missing module named _ctypes.set_errno - imported by _ctypes, ctypes
+missing module named _ctypes.alignment - imported by _ctypes, ctypes
+missing module named _ctypes.sizeof - imported by _ctypes, ctypes
+missing module named _ctypes.resize - imported by _ctypes, ctypes
+missing module named _ctypes.addressof - imported by _ctypes, ctypes
+missing module named _ctypes.byref - imported by _ctypes, ctypes
+missing module named _ctypes.dlopen - imported by _ctypes, ctypes
+missing module named _ctypes.FUNCFLAG_STDCALL - imported by _ctypes, ctypes
+missing module named _ctypes.LoadLibrary - imported by _ctypes, ctypes
+missing module named _ctypes.FUNCFLAG_PYTHONAPI - imported by _ctypes, ctypes
+missing module named _ctypes.FUNCFLAG_CDECL - imported by _ctypes, ctypes
+missing module named _ctypes.FUNCFLAG_USE_LASTERROR - imported by _ctypes, ctypes
+missing module named _ctypes.FUNCFLAG_USE_ERRNO - imported by _ctypes, ctypes
+missing module named _ctypes.FormatError - imported by _ctypes, ctypes
+missing module named _ctypes.ArgumentError - imported by _ctypes, ctypes
+missing module named _ctypes.RTLD_LOCAL - imported by _ctypes, ctypes
+missing module named _ctypes.RTLD_GLOBAL - imported by _ctypes, ctypes
+missing module named _ctypes.__version__ - imported by _ctypes, ctypes
+missing module named _ctypes.CFuncPtr - imported by _ctypes, ctypes
+missing module named _ctypes._Pointer - imported by _ctypes, ctypes
+missing module named _ctypes.Union - imported by _ctypes, ctypes
+missing module named _ctypes.Array - imported by _ctypes, ctypes
+missing module named _ctypes.Structure - imported by _ctypes, ctypes

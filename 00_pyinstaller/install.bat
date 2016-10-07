@@ -1,0 +1,1 @@
+pyinstaller app2.spec --clean
