@@ -1,0 +1,190 @@
+[2016-10-10 16:51:41,974],app  , ERROR   ,app.py              ,28  ,app            ,<module>       ,Traceback (most recent call last):
+  File "app.py", line 26, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+
+[2016-10-10 17:51:32,246],app  , ERROR   ,app.py              ,30  ,app            ,<module>       ,Traceback (most recent call last):
+  File "D:/Dropbox/10_GitRepository/GUIAudioMeter/src/app.py", line 28, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+
+[2016-10-10 17:53:46,386],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+  File "D:/Dropbox/10_GitRepository/GUIAudioMeter/src/app.py", line 39, in <module>
+    sys.exit(app.exec_())
+SystemExit: 0
+
+[2016-10-10 17:53:58,403],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+TypeError: exec_() takes no arguments (1 given)
+
+[2016-10-10 17:54:00,856],app  , ERROR   ,app.py              ,33  ,app            ,<module>       ,Traceback (most recent call last):
+  File "D:/Dropbox/10_GitRepository/GUIAudioMeter/src/app.py", line 31, in <module>
+SystemExit: 0
+
+[2016-10-10 17:54:04,889],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+TypeError: exec_() takes no arguments (1 given)
+
+[2016-10-10 17:54:10,422],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 17:56:25,747],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+AttributeError: 'LevelItem' object has no attribute 'set_pool'
+
+[2016-10-10 17:57:03,039],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 17:57:26,612],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 17:58:57,239],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:00:58,226],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:01:22,937],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:01:53,299],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:02:45,605],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:06:49,553],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:07:06,663],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:08:57,397],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:10:00,214],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:13:47,118],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:16:34,647],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:17:08,614],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:18:03,105],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:19:24,871],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:20:06,103],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:20:24,671],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:20:40,284],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:23:29,515],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:23:41,596],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:23:51,108],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:24:00,740],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:24:44,888],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:25:00,868],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:26:08,540],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:26:50,518],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+NameError: global name 'LevelViewer' is not defined
+
+[2016-10-10 18:29:02,456],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:29:07,366],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:29:36,355],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:29:45,113],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:29:55,530],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:30:49,632],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:31:00,168],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:31:13,043],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:31:18,950],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:31:27,729],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:32:08,091],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:32:23,276],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:32:34,354],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:32:46,133],app  , ERROR   ,app.py              ,41  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:34:52,802],app  , ERROR   ,app.py              ,44  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:39:08,937],app  , ERROR   ,app.py              ,44  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:39:52,990],app  , ERROR   ,app.py              ,44  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:43:03,641],app  , ERROR   ,app.py              ,44  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:43:40,930],app  , ERROR   ,app.py              ,44  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:44:35,718],app  , ERROR   ,app.py              ,44  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:47:36,169],app  , ERROR   ,app.py              ,44  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:48:59,251],app  , ERROR   ,app.py              ,44  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:49:03,657],app  , ERROR   ,app.py              ,44  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:56:03,739],app  , ERROR   ,app.py              ,44  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 18:59:01,402],app  , ERROR   ,app.py              ,44  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
+[2016-10-10 19:04:15,291],app  , ERROR   ,app.py              ,44  ,app            ,<module>       ,Traceback (most recent call last):
+SystemExit: 0
+
