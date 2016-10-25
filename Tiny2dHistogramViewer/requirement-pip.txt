@@ -1,0 +1,13 @@
+cycler==0.10.0
+future==0.15.2
+matplotlib==1.5.3
+numpy==1.11.2
+opencv-python==3.1.0
+pefile==2016.3.28
+PyInstaller==3.3.dev0+b78bfe5
+pyparsing==2.1.4
+pypiwin32==219
+PySide==1.2.2
+python-dateutil==2.5.3
+pytz==2016.7
+six==1.10.0

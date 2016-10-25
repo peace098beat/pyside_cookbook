@@ -1,0 +1,24 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+cycler=0.10.0=py34_0
+freetype=2.6.3=vc10_1
+icu=57.1=vc10_0
+jpeg=8d=vc10_2
+libpng=1.6.24=vc10_0
+libtiff=4.0.6=vc10_2
+mkl=11.3.3=1
+numpy=1.11.2=py34_0
+openssl=1.0.2j=vc10_0
+pip=8.1.2=py34_0
+pyparsing=2.1.4=py34_0
+python=3.4.5=0
+python-dateutil=2.5.3=py34_0
+pytz=2016.7=py34_0
+setuptools=27.2.0=py34_1
+sip=4.18=py34_0
+six=1.10.0=py34_0
+tk=8.5.18=vc10_0
+vs2010_runtime=10.00.40219.1=2
+wheel=0.29.0=py34_0
+zlib=1.2.8=vc10_3

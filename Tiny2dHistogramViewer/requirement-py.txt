@@ -1,0 +1,2 @@
+Python 3.4.5 :: Continuum Analytics, Inc.
+conda 4.2.9
