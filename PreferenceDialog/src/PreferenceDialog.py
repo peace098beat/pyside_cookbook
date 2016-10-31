@@ -6,10 +6,10 @@ GUIでよくある設定項目選択用のダイアログ．
 辞書型で選択肢を渡すと起動．
 
 config = {
-    'Exp': ('E001', 'E002', 'E003'),
-    'Club': ('J715', 'PHYZ'),
-    'Ball': ('P1', 'D1', 'F1'),
-    'Mic': ('E100H160', 'S100H160'),
+    'Event': ('E001', 'E002', 'E003'),
+    'Number': ('001', '002'),
+    'Sox': ('P1', 'D1', 'F1'),
+    'Plans': ('H160', 'H180'),
 }
 
 selected_config, ok = PreferenceDialog.run(parent=None, config=config)
@@ -46,14 +46,7 @@ class PreferenceDialog(QDialog):
         self.readSettings()
 
     def setUpUi(self):
-        """
-        config = {
-            'Exp': ('E001', 'E002', 'E003'),
-            'Club': ('J715', 'PHYZ'),
-            'Ball': ('P1', 'D1', 'F1'),
-            'Mic': ('E100H160', 'S100H160'),
-        }
-        """
+
         # Main Layout
         self.main_layout = QVBoxLayout(self)
 
@@ -117,7 +110,6 @@ class PreferenceDialog(QDialog):
     def get_selected_preference(self):
         """
         チェックボックスで選択された要素を辞書で返す
-        :return: selected_config:{'Club': ['PHYZ'], 'Mic': ['S100H160'], 'Ball': ['D1'], 'Exp': ['E002']}
         """
         checkboxes = self.checkbox_ui
 
@@ -137,9 +129,9 @@ class PreferenceDialog(QDialog):
         dialog = PreferenceDialog(config, parent)
         result = dialog.exec_()
         if result == QDialog.Accepted:
-	        selected_config = dialog.get_selected_preference()
-	    else:
-	        selected_config = config
+            selected_config = dialog.get_selected_preference()
+        else:
+            selected_config = config
         return (selected_config, result == QDialog.Accepted)
 
 
@@ -151,10 +143,10 @@ def main():
         app.setStyle('plastique')
 
         config = {
-            'Exp': ('E001', 'E002', 'E003'),
-            'Club': ('J715', 'PHYZ'),
-            'Ball': ('P1', 'D1', 'F1'),
-            'Mic': ('E100H160', 'S100H160'),
+            'Event': ('E001', 'E002', 'E003'),
+            'Number': ('001', '002'),
+            'Sox': ('P1', 'D1', 'F1'),
+            'Plans': ('H160', 'H180'),
         }
         selected_config, ok = PreferenceDialog.run(parent=None, config=config)
 
