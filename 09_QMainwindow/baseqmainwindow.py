@@ -10,6 +10,9 @@ class BasedMainWindow(QMainWindow):
 
 	MAINLOOP_FPS=120
 
+	fileLoaded = Signal(str)
+	
+
 	def __init__(self):
 		super().__init__()
 
@@ -85,6 +88,8 @@ class BasedMainWindow(QMainWindow):
 			self.loaded_filepath = fileName
 			msg = "File Load : {}".format(self.loaded_filepath)
 			self.putStatusbar(msg, 5000)
+
+			self.fileLoaded.emit(fileName)
 
 	@Slot()
 	def _runPreference(self):
