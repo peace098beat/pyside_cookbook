@@ -1,0 +1,11 @@
+﻿'ImageViewScene' object has no attribute 'setAcceptDrops'
+'ImageViewScene' object has no attribute 'setAcceptDrops'
+'ImageViewScene' object has no attribute 'setAcceptDrops'
+arguments did not match any overloaded call:
+  QPushButton(parent: QWidget = None): too many arguments
+  QPushButton(str, parent: QWidget = None): argument 1 has unexpected type 'YourMainWindow'
+  QPushButton(QIcon, str, parent: QWidget = None): argument 1 has unexpected type 'YourMainWindow'
+'weight' is an unknown keyword argument
+name 'lable2' is not defined
+'YourMainWindow' object has no attribute 'saliency_run'
+'ImageViewScene' object has no attribute 'setStyleSheet'
