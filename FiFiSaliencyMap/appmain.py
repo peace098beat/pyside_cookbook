@@ -115,7 +115,12 @@ class YourMainWindow(BasedMainWindow):
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
+    # setup stylesheet
+    import css
+    app.setStyleSheet(css.orange_style)
+
     app.lastWindowClosed.connect(app.quit)
+    
     try:
 
         win = YourMainWindow()

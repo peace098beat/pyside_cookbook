@@ -23,6 +23,9 @@
   <ItemGroup>
     <Compile Include="appmain.py" />
     <Compile Include="base_mainwindow.py" />
+    <Compile Include="css.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="image_viewer.py">
       <SubType>Code</SubType>
     </Compile>
